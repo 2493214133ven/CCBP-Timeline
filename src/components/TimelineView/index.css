@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.timeline-journey-app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 21px;
+  min-width: 350px;
+  min-height: 100vh;
+  font-family: 'roboto';
+}
+
+.my-journey-of {
+  font-size: 24px;
+  font-weight: 800;
+  color: #1e293b;
+}
+.ccbp-4 {
+  font-size: 38px;
+  font-weight: bolder;
+  color: #171f46;
+}

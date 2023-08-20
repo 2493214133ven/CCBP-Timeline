@@ -1,0 +1,53 @@
+/* Write your CSS here */
+.course-card-container {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
+.course-title-react-icon-duration-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.course-title {
+  font-size: 24px;
+  font-weight: 700;
+  color: #171f46;
+}
+.react-icon-duration-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.clock-icon {
+  font-size: 21px;
+  margin-right: 10px;
+}
+.duration {
+  font-size: 16px;
+  font-weight: 700;
+  color: #171f46;
+}
+.description {
+  font-size: 18px;
+  font-weight: 500;
+  color: #656669;
+}
+.tag-list-container {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.tag-name {
+  font-size: 18px;
+  font-weight: 700;
+  color: #1e293b;
+  background-color: #d5d7e2;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 7px;
+}
